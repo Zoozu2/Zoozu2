@@ -1,7 +1,7 @@
 
 <img src='https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67' alt='banner' />
 
-# Hello I am Shreyas! 
+# I am Shreyas! 
 I am a Data Analyst at [Institutional Shareholders Service](https://www.issgovernance.com/), where I specialize in data-collection, data-cleaning and data analytics which contribute towards making a Shareholders Report.
 
 - ✍️ Follow me on [Linkedin](https://www.linkedin.com/in/shreyas-vartak/) 
