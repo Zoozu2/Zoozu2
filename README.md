@@ -9,8 +9,8 @@ I am a Data Analyst at [Institutional Shareholders Service](https://www.issgover
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zoozu2&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zoozu2&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zoozu2&show_icons=true&theme=tokyonight" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zoozu2&theme=tokyonight&hide_border=true" width="400">
 </p>
 
 ---
