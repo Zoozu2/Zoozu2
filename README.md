@@ -4,7 +4,7 @@
 # I am Shreyas! 
 I am a Data Analyst at [Institutional Shareholders Service](https://www.issgovernance.com/), where I specialize in data-collection, data-cleaning and data analytics which contribute towards making a Shareholders Report.
 
-- ✍️ Follow me on [Linkedin](https://www.linkedin.com/in/shreyas-vartak/) 
+- 👨‍💻 Follow me on [Linkedin](https://www.linkedin.com/in/shreyas-vartak/) 
 
 ---
 
